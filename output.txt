@@ -1,0 +1,23 @@
+==========================
+== General Message Info ==
+==========================
+Wiadomość nr: 1
+Numer parametru: 0
+Poziom: 850
+Jednostka czasu: 1
+Zakres kroku: 0
+Początkowa szerokość geograficzna: 0.0°
+Początkowa długość geograficzna: -30.0°
+
+==========================
+== General Message Info ==
+==========================
+Wiadomość nr: 2
+Numer parametru: 1
+Poziom: 500
+Jednostka czasu: 1
+Zakres kroku: 6
+Początkowa szerokość geograficzna: 10.0°
+Początkowa długość geograficzna: 30.0°
+
+
